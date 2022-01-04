@@ -4,17 +4,14 @@
 
 1. *Decision Tree*
    - *[UCI human activitiy dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/UCI_Human_activity_dataset.ipynb)*
-   
 2. *Random Forest*
-
    - *[UCI human activitiy dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/UCI_Human_activity_dataset.ipynb)*
-
 3. *Gradient Boost Machine*
-
    - *[Practice GBM](https://github.com/ominiv/Practice_ML/blob/master/Practice/Practice%20GBM.ipynb)*
-
    - *[UCI human activitiy dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/UCI_Human_activity_dataset.ipynb)*
-
 4. *XGBoost*
-- *[breast cancer dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/breast cancer dataset.ipynb)*
+   - *[breast cancer dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/breast)*
+5. *LightGBM*
+   - *[breast cancer dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/breast%20cancer%20dataset.ipynb)*
+   - *[Prediction Santander Customer Satisfaction](https://github.com/ominiv/Practice_ML/blob/master/Practice/Prediction%20Santander%20Customer%20Satisfaction.ipynb)*
 
