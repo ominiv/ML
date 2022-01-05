@@ -11,7 +11,11 @@
    - *[UCI human activitiy dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/UCI_Human_activity_dataset.ipynb)*
 4. *XGBoost*
    - *[breast cancer dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/breast)*
+   - *[Prediction Santander Customer Satisfaction](https://github.com/ominiv/Practice_ML/blob/master/prediction-santander-customer-satisfaction.ipynb)*
 5. *LightGBM*
    - *[breast cancer dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/breast%20cancer%20dataset.ipynb)*
-   - *[Prediction Santander Customer Satisfaction](https://github.com/ominiv/Practice_ML/blob/master/Practice/Prediction%20Santander%20Customer%20Satisfaction.ipynb)*
+   - *[Prediction Santander Customer Satisfaction](https://github.com/ominiv/Practice_ML/blob/master/prediction-santander-customer-satisfaction.ipynb)*
+   - *[Credit Card Fraud Detection](https://github.com/ominiv/Practice_ML/blob/master/credit-card-fraud-detection.ipynb)*
+6. LogisticRegression
+   - *[Credit Card Fraud Detection](https://github.com/ominiv/Practice_ML/blob/master/credit-card-fraud-detection.ipynb)*
 
