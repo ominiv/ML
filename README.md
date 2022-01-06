@@ -1,6 +1,6 @@
-# Practice_ML
+# *Practice_ML*
 
-파이썬 머신러닝 완벽가이드 책에 있는 예제 모음입니다.
+*파이썬 머신러닝 완벽가이드 책에 있는 예제 모음입니다.*
 
 1. *Decision Tree*
    - *[UCI human activitiy dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/UCI_Human_activity_dataset.ipynb)*
@@ -16,6 +16,9 @@
    - *[breast cancer dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/breast%20cancer%20dataset.ipynb)*
    - *[Prediction Santander Customer Satisfaction](https://github.com/ominiv/Practice_ML/blob/master/Practice/prediction-santander-customer-satisfaction.ipynb)*
    - *[Credit Card Fraud Detection](https://github.com/ominiv/Practice_ML/blob/master/Practice/credit-card-fraud-detection.ipynb)*
-6. LogisticRegression
+6. *LogisticRegression*
    - *[Credit Card Fraud Detection](https://github.com/ominiv/Practice_ML/blob/master/Practice/credit-card-fraud-detection.ipynb)*
+7. *Stacking*
+   - *[breast cancer dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/breast%20cancer%20dataset.ipynb)*
 
+     
