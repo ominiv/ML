@@ -20,5 +20,5 @@
    - *[Credit Card Fraud Detection](https://github.com/ominiv/Practice_ML/blob/master/Practice/credit-card-fraud-detection.ipynb)*
 7. *Stacking*
    - *[breast cancer dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/breast%20cancer%20dataset.ipynb)*
-
-     
+8. Algorithm
+   - *[Gradient Descent](https://github.com/ominiv/Practice_ML/blob/master/Practice/Gradient%20Descent.ipynb)*
