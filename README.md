@@ -24,3 +24,6 @@
    - *[Gradient Descent](https://github.com/ominiv/Practice_ML/blob/master/Practice/Gradient%20Descent.ipynb)*
 9. *LinearRegression*
    - *[Boston dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/boston%20dataset.ipynb)*
+10. *Polynomial Regression*
+      - *[polynomial regression](https://github.com/ominiv/Practice_ML/blob/master/Practice/polynomial%20regression.ipynb)*
+
