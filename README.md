@@ -30,3 +30,5 @@
       - *[breast cancer dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/breast%20cancer%20dataset.ipynb)*
 12. *Lasso Ridge ElasticNet*
       - *[Boston dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/boston%20dataset.ipynb)*
+13. *RegressionTree*
+      - *[Boston dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/boston%20dataset.ipynb)*
