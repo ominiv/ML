@@ -34,7 +34,7 @@ The collection of Machine learning Algorithm examples <br>*edit by ominiv*
       - [Boston dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/boston%20dataset.ipynb)
 
 - Feature Reduction
-   - PCA
+   - PCA / LDA / SVD / NMF
       - [iris dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/Feature%20extraction.ipynb)
 
 - Algorithm
