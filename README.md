@@ -3,7 +3,7 @@ The collection of Machine learning Algorithm examples <br>*edit by ominiv*
 - Decision Tree
    - [UCI human activitiy dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/UCI_Human_activity_dataset.ipynb)
 
-- Esemble
+- Ensemble
    - Random Forest
       - [UCI human activitiy dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/UCI_Human_activity_dataset.ipynb)
    - Gradient Boost Machine
