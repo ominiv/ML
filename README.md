@@ -1,5 +1,18 @@
 # *Practice_ML*
-The collection of Machine learning Algorithm examples <br>*edit by ominiv*
+In this repo, i review machine learning papers and algorithms. Contributions are always welcome.
+
+*edit by ominiv*
+
+---
+
+## *machine learning paper review* 
+- Quantifying Availability and Discovery in Recommender Systems via Stochastic Reachability 
+- Learning Self-Modulating Attention in Continuous Time Space with Applications to Sequential Recommendation
+- Towards Open-World Recommendation: An Inductive Model-based Collaborative Filtering Approach
+- Correcting Exposure Bias for Link Recommendation
+
+---
+## *algorithm*
 - Decision Tree
    - [UCI human activitiy dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/UCI_Human_activity_dataset.ipynb)
 
@@ -43,4 +56,5 @@ The collection of Machine learning Algorithm examples <br>*edit by ominiv*
 
 ---
 ## *Reference*
+- [ICML | 2021](https://icml.cc/Conferences/2021/Schedule?type=Poster)
 - 파이썬 머신러닝 완벽가이드
