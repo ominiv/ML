@@ -1,7 +1,7 @@
 # *Practice_ML*
-In this repo, i review machine learning papers and algorithms. Contributions are always welcome.
-
 *edit by ominiv*
+
+In this repo, i review machine learning papers and algorithms.<br>Contributions are always welcome.
 
 ---
 
