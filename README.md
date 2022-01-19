@@ -46,10 +46,12 @@ In this repo, i review machine learning papers and algorithms.<br>Contributions 
    -  RegressionTree
       - [Boston dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/boston%20dataset.ipynb)
 
-- Feature Reduction
+- Dimension Reduction
    - PCA / LDA / SVD / NMF
-      - [iris dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/Feature%20extraction.ipynb)
-
+      - [iris dataset-Dimension Reduction](https://github.com/ominiv/Practice_ML/blob/master/Practice/Feature%20extraction.ipynb)
+- Clustering
+   - Kmeans / Mean Shift / GMM / DBSCAN
+      - [iris dataset - Clustering](https://github.com/ominiv/Practice_ML/blob/master/Practice/Clustering.ipynb)
 - Algorithm
    - [Gradient Descent](https://github.com/ominiv/Practice_ML/blob/master/Practice/Gradient%20Descent.ipynb)
 
