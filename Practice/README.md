@@ -41,6 +41,11 @@
 - Algorithm
    - [Gradient Descent](https://github.com/ominiv/Practice_ML/blob/master/Practice/Gradient%20Descent.ipynb)
 
+- Recommandation System
+   - Content based Filtering 
+   - item based filtering
+   - Latent Factor Collaborative Filtering
+
 ---
 ## *Reference*
 - 파이썬 머신러닝 완벽가이드
