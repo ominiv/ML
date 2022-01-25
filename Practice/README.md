@@ -40,11 +40,15 @@
       - [iris dataset - Clustering](https://github.com/ominiv/Practice_ML/blob/master/Practice/Clustering.ipynb)
 - Algorithm
    - [Gradient Descent](https://github.com/ominiv/Practice_ML/blob/master/Practice/Gradient%20Descent.ipynb)
+- Text Analytics
+   - [Text Preprocessing ](https://github.com/ominiv/Practice_ML/blob/master/Practice/Text_Preprocessing.ipynb)
 
 - Recommandation System
-   - Content based Filtering 
-   - item based filtering
-   - Latent Factor Collaborative Filtering
+   - [Content based Filtering ](https://github.com/ominiv/Practice_ML/blob/master/Practice/Content%20based%20Filtering.ipynb)
+   - [item based filtering ](https://github.com/ominiv/Practice_ML/blob/master/Practice/item%20based%20KNN%20filtering.ipynb)
+   - [Latent Factor Collaborative Filtering ](https://github.com/ominiv/Practice_ML/blob/master/Practice/Latent%20Factor%20Collaborative%20Filtering.ipynb)
+
+
 
 ---
 ## *Reference*
