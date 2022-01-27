@@ -6,6 +6,7 @@
    - Random Forest
       - [UCI human activitiy dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/UCI_Human_activity_dataset.ipynb)
    - Gradient Boost Machine
+      - [Gradient Descent algorithm](https://github.com/ominiv/Practice_ML/blob/master/Practice/Gradient%20Descent.ipynb)
       - [Practice GBM](https://github.com/ominiv/Practice_ML/blob/master/Practice/Practice%20GBM.ipynb)
       - [UCI human activitiy dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/UCI_Human_activity_dataset.ipynb)
    - XGBoost
@@ -23,6 +24,7 @@
       - [Boston dataset](https://github.com/ominiv/Practice_ML/blob/master/Practice/boston%20dataset.ipynb)
    - LogisticRegression
       - [Credit Card Fraud Detection](https://github.com/ominiv/Practice_ML/blob/master/Practice/credit-card-fraud-detection.ipynb)
+      - [News Classification](https://github.com/ominiv/Practice_ML/blob/master/Practice/News_Classification.ipynb)
    - Polynomial Regression
       - [polynomial regression](https://github.com/ominiv/Practice_ML/blob/master/Practice/polynomial%20regression.ipynb)
    - Logistic Regression
@@ -38,11 +40,12 @@
 - Clustering
    - Kmeans / Mean Shift / GMM / DBSCAN
       - [iris dataset - Clustering](https://github.com/ominiv/Practice_ML/blob/master/Practice/Clustering.ipynb)
-- Algorithm
-   - [Gradient Descent](https://github.com/ominiv/Practice_ML/blob/master/Practice/Gradient%20Descent.ipynb)
-- Text Analytics
-   - [Text Preprocessing ](https://github.com/ominiv/Practice_ML/blob/master/Practice/Text_Preprocessing.ipynb)
 
+- Text Analytics
+   - [COO CSR (Feature Vectorization)](https://github.com/ominiv/Practice_ML/blob/master/Practice/CSR_format.ipynb)
+   - [Text Preprocessing ](https://github.com/ominiv/Practice_ML/blob/master/Practice/Text_Preprocessing.ipynb)
+   - [News Classification](https://github.com/ominiv/Practice_ML/blob/master/Practice/News_Classification.ipynb)
+   - [Sentiment Analysis](https://github.com/ominiv/Practice_ML/blob/master/Practice/sentiment-analysis-unsupervised-and-supervised.ipynb)
 - Recommandation System
    - [Content based Filtering ](https://github.com/ominiv/Practice_ML/blob/master/Practice/Content%20based%20Filtering.ipynb)
    - [item based filtering ](https://github.com/ominiv/Practice_ML/blob/master/Practice/item%20based%20KNN%20filtering.ipynb)
